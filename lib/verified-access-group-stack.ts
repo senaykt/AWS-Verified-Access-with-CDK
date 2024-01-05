@@ -21,7 +21,7 @@ export class VerifiedAccessGroupStack extends Stack {
       policyEnabled: true,
       tags: [{
         key: 'Name',
-        value: 'verified-access-instance',
+        value: 'verified-access-group',
       }],
     });
 
