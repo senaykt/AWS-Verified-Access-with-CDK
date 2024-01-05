@@ -12,5 +12,4 @@ Get your internal applications and dashboards super secure with AWS Verified Acc
    ```bash
    git clone https://github.com/senaykt/AWS-Verified-Access-with-CDK.git
 
-    ```bash
-  cd AWS-Verified-Access-with-CDK
+   cd AWS-Verified-Access-with-CDK
