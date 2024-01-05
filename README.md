@@ -12,13 +12,13 @@ Get your internal applications and dashboards super secure with AWS Verified Acc
 
 Please create all of them step by step. 
 
-1 - Verified Access Trust Provider
+1- Verified Access Trust Provider
 
 `cdk synth --app "npx ts-node bin/verified-access-trust-provider.ts"  VerifiedAccessTrustProviderStack`
 
 `cdk deploy --app "npx ts-node bin/verified-access-trust-provider.ts"  VerifiedAccessTrustProviderStack`
 
-2 - Verified Access Instance
+2- Verified Access Instance
 
 `cdk synth --app "npx ts-node bin/verified-access-instance.ts"  VerifiedAccessInstanceStack`
 
@@ -26,9 +26,10 @@ Please create all of them step by step.
 
 3- Verified Access Groups
 
+`cdk synth --app "npx ts-node bin/verified-access-group.ts"  VerifiedAccessGroupStack`
+
 `cdk deploy --app "npx ts-node bin/verified-access-group.ts"  VerifiedAccessGroupStack`
 
-`cdk synth --app "npx ts-node bin/verified-access-group.ts"  VerifiedAccessGroupStack`
 
 4- Verified Access Endpoint
 
