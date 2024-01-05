@@ -7,3 +7,8 @@ Get your internal applications and dashboards super secure with AWS Verified Acc
 ### Prerequisites
 - AWS CDK installed
 - Your favorite terminal and Git ready to roll
+
+### Installation 🛠️
+1. Clone this stellar repo:
+   ```bash
+   git clone https://github.com/senaykt/AWS-Verified-Access-with-CDK.git
