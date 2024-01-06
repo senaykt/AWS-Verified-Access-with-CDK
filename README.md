@@ -40,7 +40,7 @@ Please create all of them step by step.
 
 Example Group Policy:
 
-permit(principal, action, resource)
+`permit(principal, action, resource)
 when {
     context.http_request.http_method != "INVALID_METHOD"
-};
+};`
